@@ -5,15 +5,17 @@ Kubernetes Operators is a series of labs about deploying applications to Kuberne
 ## Pre-requirements
 
 * a Free IBM Cloud account, to create a new IBM Cloud account, follow the instructions [here](https://ibm.github.io/workshop-setup/NEWACCOUNT/).
+<!-- 
 * a Red Hat OpenShift Kubernetes Service (ROKS) v4.5 using a cluster with admin rights,
 * CognitiveLabs.ai account, to access a client terminal at CognitiveLabs.ai, follow the instructions [here](https://ibm.github.io/workshop-setup/COGNITIVECLASS/).
+-->
 
 ## Labs
 
-1. [Setup](setup.md),
-2. [Lab 1 Create a Custom Resource (CR)](lab1.md),
-3. [Lab2 Create an Operator of Type Go using the Operator SDK](lab2.md),
-4. [Lab3 Create an Operator using an Existing Helm Chart](lab3.md)
+<!--1. [Setup](setup.md),-->
+* [Lab 1 Create a Custom Resource (CR)](lab1.md),
+<!--1. [Lab2 Create an Operator of Type Go using the Operator SDK](lab2.md),-->
+* [Lab 2 Create an Operator using an Existing Helm Chart](lab3.md)
 
 ## Contributors
 
